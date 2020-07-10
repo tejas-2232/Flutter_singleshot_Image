@@ -14,7 +14,7 @@ class Home extends StatelessWidget {
         child: Image.network(
           'https://cdn.pixabay.com/photo/2011/12/14/12/11/astronaut-11080__340.jpg',
           width: 400,
-          height: 800,
+          height: 790,
           fit: BoxFit.fitWidth,
           colorBlendMode: BlendMode.difference,
           semanticLabel: 'Spaceman',
